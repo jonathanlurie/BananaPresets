@@ -2,7 +2,7 @@
 
 ## What?
 
-Just few preset I use sometimes with Adobe Lightroom and wanted to share.
+Just few presets I use sometimes with Adobe Lightroom and wanted to share.
 
 ## How?
 
